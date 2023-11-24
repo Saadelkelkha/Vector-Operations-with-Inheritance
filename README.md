@@ -17,7 +17,7 @@ ToString(self): Returns a string representation of the vector.
 Equals(self, vecteur1): Checks if two vectors are equal.
 Norme(self): Calculates the norm (magnitude) of the vector.
 
-#Class: Vecteur3D (inherits from Vecteur2D)
+# Class: Vecteur3D (inherits from Vecteur2D)
 Attributes:
 
 __Z: A private instance variable for the z-coordinate.
@@ -30,7 +30,7 @@ ToString(self): Returns a string representation of the vector in 3D.
 Equals(self, vecteur1): Checks if two 3D vectors are equal.
 Norme(self): Calculates the norm (magnitude) of the 3D vector.
 
-#Main Program:
+# Main Program:
 Imports the Vecteur2D and Vecteur3D classes from the class4 module.
 Creates instances of Vecteur2D and Vecteur3D.
 Performs various operations such as printing string representations, comparing vectors, and calculating vector norms.
