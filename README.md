@@ -36,7 +36,3 @@ Creates instances of Vecteur2D and Vecteur3D.
 Performs various operations such as printing string representations, comparing vectors, and calculating vector norms.
 
 
-
-
-Message ChatGPT…
-
